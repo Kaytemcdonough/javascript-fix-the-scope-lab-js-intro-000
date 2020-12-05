@@ -12,14 +12,14 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
   return animal
-  console.log("animal")
 }
 
 function add2(n) {
-  return n + two
+  return (n + two){
+    const two = 2
+  }
 
   // Feel free to move things around!
-  const two = 2
 }
 
 var funkyFunction = function() {
